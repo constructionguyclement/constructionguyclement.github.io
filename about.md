@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Informations
+permalink: /Informations/
 ---
 
-Some information about you!
+# Construction Guy Clément
+## Entrepreneur général
 
-### More Information
+### R.B.Q: 5705-6996-01
 
-A place to include any other types of information that you'd like to include about yourself.
+### Nous contacter
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+BUREAU : (450) 885-3298
+FAX : (450) 885-2322
+GUY : (450) 885-3330
+Cell : (450) 803-4999
+881 ST-JOACHIM, ST-BARTHÉLEMY, QC. J0K 1X0
+[constructionguyclement@hotmail.com](mailto:constructionguyclement@hotmail.com)
