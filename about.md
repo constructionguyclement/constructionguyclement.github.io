@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informations
-permalink: /Informations/
+permalink: /about/
 ---
 
 # Construction Guy Clément
